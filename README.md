@@ -1,6 +1,6 @@
 # Sukh_coder
 my first github project
 <br>
-Sukhvinder Singh
+Author : Sukhvinder Singh
 <br>
 new project 
