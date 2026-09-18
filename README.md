@@ -1,5 +1,5 @@
 # Sukh_coder
-my first github project
+my second github project
 <br>
 Author : Sukhvinder Singh
 <br>
